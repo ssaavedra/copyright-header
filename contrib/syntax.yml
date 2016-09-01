@@ -90,6 +90,13 @@ haml:
     close:  '-#\n'
     prefix: '-# '
 
+lisp:
+  ext: ['.lisp', '.lsp', '.asd']
+  comment:
+    open:   ';;;;\n'
+    close:  ';;;;\n'
+    prefix: ';;;; '
+
 coffee:
   ext: ['.coffee']
   comment:
